@@ -1,0 +1,2 @@
+# sqliite
+pycharm
